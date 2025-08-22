@@ -4,3 +4,5 @@ jupytext
 litellm
 notebook
 python-dotenv
+tavily-python
+ipykernel
